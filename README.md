@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aadarsh-AD
+- 👋 Hi, I’m Aadarsh Dontul
 - 👀 I’m interested in projects & Development
 - 🌱 I’m currently learning Java & python
 - 💞️ I’m looking to collaborate on ...
